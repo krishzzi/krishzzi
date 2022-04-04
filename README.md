@@ -5,6 +5,6 @@
      I take extraordinary consideration in the experience, engineering, and code nature of the things I fabricate.
 - 🌱 I'm likewise an open-source devotee and maintainer. I gleaned some significant experience from the open-source local area 
 - 💞️ I love the wonderful way collaboration and information sharing occurred through open-source...
-- 📫 How to reach me mail to krishanu.info@@gmail.com   
+- 📫 How to reach me mail to krishanu.info@gmail.com   
 - 💼 any freelance  work? do reach, write mail to krishanu.info@gmail.com  
 - 💬 get some information about anything, I'm eager to assist;
