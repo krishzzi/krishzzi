@@ -1,4 +1,4 @@
-- 👋 Howdy, I’m @mintreu (Krishanu Bhattacharya), an passionate self-taught full stack web designer and an freelance computer developer from india. 
+- 👋 Howdy, I’m @krishzzi (Krishanu Bhattacharya), an passionate self-taught full stack web designer and an freelance computer developer from india. 
     and I love the wonderful way collaboration and information sharing occurred through open-source...
     
 - 👀 My enthusiasm for programming lies with concocting thoughts and making them materialize with rich connection points.
