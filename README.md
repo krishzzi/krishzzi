@@ -6,13 +6,6 @@ Welcome to my GitHub profile. I'm a passionate self-taught full stack web design
 
 My enthusiasm for programming goes beyond just writing code; I focus on crafting ideas into tangible projects with seamless user experiences. I prioritize the architecture and code quality to ensure that the solutions I build are not just functional but also maintainable and scalable.
 
-## 📊 GitHub Stats
-
-<!-- GitHub Stats -->
-[![Krishanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishzzi&count_private=true&show_icons=true&theme=radical)](https://github.com/krishzzi)
-
-<!-- GitHub Stats -->
-![Krishanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishzzi&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 
 
