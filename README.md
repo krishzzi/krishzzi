@@ -11,8 +11,9 @@ My enthusiasm for programming goes beyond just writing code; I focus on crafting
 <!-- GitHub Stats -->
 [![Krishanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishzzi&count_private=true&show_icons=true&theme=radical)](https://github.com/krishzzi)
 
-<!-- Total Contributions -->
-![Total Contributions](https://github.com/krishzzi/krishzzi/blob/main/profile-summary-card-output/default/0-profile-details.svg)
+<!-- GitHub Stats -->
+![Krishanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishzzi&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
 
 
 <!-- Top Languages -->
